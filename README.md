@@ -1,6 +1,6 @@
 # menurenfort-naben
 
-Voici un petit script menu renfort LSPD qui est fait en full HTML.
+Voici un petit script menu demande de renfort LSPD qui est fait en full HTML.
 C'est mon premier script en NUI !
 
 Preview du script : https://www.youtube.com/watch?v=kV_EOztWgEY
@@ -17,4 +17,5 @@ La commande pour ouvrir ce menu est "renfort" libre à vous d'intégrez cette co
 ___________________________
 
 Script fait entièrment par ! "Naben.™ 🌴#4469
+PS : Gros merci à wikili202 pour le coup de main !
 
