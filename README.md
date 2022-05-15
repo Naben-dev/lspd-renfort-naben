@@ -1,4 +1,4 @@
-# menurenfort-naben
+# lspd-renfort-naben
 
 Voici un petit script menu demande de renfort LSPD qui est fait en full HTML.
 C'est mon premier script en NUI !
