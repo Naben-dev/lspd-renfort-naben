@@ -9,6 +9,7 @@ ___________________________
 
 
 Il est possible de modifier le design du menu à votre guise si vous avez besoin d'aide pour cela tout se passe sur mon discord : https://discord.gg/EKz25TqZhY
+
 Pour tout bug veuillez me contacter je vais faire de mon mieux pour le fix au plus rapidement.
 
 Sur ce menu il y'a 3 types de demande de renfort : petite, moyenne, urgent
