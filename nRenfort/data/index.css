@@ -1,0 +1,57 @@
+#panel {
+    position: fixed;
+    width: 75vh;
+    height: 35vh;
+    left: 55vh;
+    top: 24vh;
+    background-color: rgba(0, 0, 0, 0.639);
+    display: block;
+    border-top: 4px solid rgb(0, 64, 255);
+    border-bottom: 4px solid rgb(0, 64, 255);
+    border-radius: 3vh;
+}
+
+.low {
+    position: absolute;
+    width: 20vh;
+    height: 20vh;
+    left: 6%;
+    top: 28.5%;
+    border: none;
+}
+
+.mid {
+    position: absolute;
+    width: 20vh;
+    height: 20vh;
+    left: 37%;
+    top: 28.5%;
+    border: none;
+}
+
+.panic {
+    position: absolute;
+    width: 20vh;
+    height: 20vh;
+    left: 67%;
+    top: 28.5%;
+    border: none;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.low:hover {
+    transform:scale(1.055);
+}
+
+.mid:hover {
+    transform:scale(1.055);
+}
+
+.panic:hover {
+    transform:scale(1.055);
+}
